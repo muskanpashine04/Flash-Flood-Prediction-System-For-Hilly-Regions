@@ -1,0 +1,9 @@
+{
+  "appId": "com.flashflood.prediction",
+  "appName": "Flash Flood Prediction",
+  "webDir": "dist",
+  "server": {
+    "cleartext": true,
+    "androidScheme": "https"
+  }
+}
